@@ -127,8 +127,8 @@ return (
 
         <p className="text-[#8C6D3B] text-[14px] font-medium leading-relaxed">
           يرجى تحويل المبلغ عبر{" "}
-          <span className="font-bold text-gray-900">محفظة بال باي (PalPay)</span>{" "}
-          أو <span className="font-bold text-gray-900">بنك فلسطين</span> إلى الحساب التالي:
+          <span className="font-bold text-gray-900">  </span>{" "}
+         <span className="font-bold text-gray-900">بنك فلسطين</span>  الحساب التالي:
         </p>
 
         {/* رقم الحساب في المنتصف */}
